@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+A
+1
+0
+1
+B
+1
+0
+1
+C
+1
+0
+4
+1
+45
+'digite altura de triangulo y del rectangulo'
+5
+1
+1
+A
+4
+1
+47
+'Digite la base del triangulo y del rectangulo'
+5
+1
+1
+B
+4
+1
+33
+'digite la altura del rectangulo'
+5
+1
+1
+C
+6
+3
+2
+TR
+11
+(B*(A-C))/2
+2
+RL
+3
+B*C
+5
+total
+5
+TR+RL
+4
+1
+102
+'EL Área del terreno es:',total, ' y ', 'el area del triangulo es:',TR, ' y ',' del rectangulo es:',RL
+1

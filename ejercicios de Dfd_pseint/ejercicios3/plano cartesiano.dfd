@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+X2
+1
+0
+2
+X1
+1
+0
+2
+Y2
+1
+0
+6
+3
+2
+Y1
+1
+0
+14
+abscisas_resta
+1
+0
+15
+Ordenadas_resta
+1
+0
+4
+1
+33
+'Digite el abscisas De (X2 - X1)'
+5
+1
+6
+X2,,X1
+4
+1
+34
+'Digite el Ordenadas De (Y2 - Y1)'
+5
+1
+5
+Y2,Y1
+6
+3
+7
+catetoX
+7
+X2 - X1
+7
+catetoY
+7
+Y2 - Y1
+1
+D
+24
+sqrt(catetoX^2+catetoY^2
+4
+1
+34
+'La distancia entre P1 y P2 es:',D
+1
